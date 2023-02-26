@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center"><a href="https://www.roydon.top/"><img src="https://readme-typing-svg.herokuapp.com/?color=pink&lines=System.out.println(%22Hello%20World%22);console.log(%22https%3A%2F%2Fwww%2Eroydon%2Etop%22)&center=true&size=20"></a>
 </h1>
 
+<!-- 贪吃蛇 -->
 ![](https://github.com/beiChen-JavaCoder/beiChen-JavaCoder/blob/main/assets/snake.svg)
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://gcore.jsdelivr.net/gh/roydonGuo/roydonGuo/assets/github-contribution-grid-snake.svg" alt="snake"/></div>
