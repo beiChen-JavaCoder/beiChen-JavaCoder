@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 动态打字效果 -->
-<h1 align="center"><a href="https://www.beic.top/"><img src="https://readme-typing-svg.herokuapp.com/?color=red&lines=System.out.println(%22Hello%20World%22);console.log(%22http%3A%2F%2Fwww%2Ebeic%2Etop%22)&center=true&size=20"></a>
+<h1 align="center"><a href="https://www.beic.top/"><img src="https://readme-typing-svg.herokuapp.com/?color=red&lines=System.out.println(%22Hello%20World%22);console.log(%22https%3A%2F%2Fwww%2Ebeic%2Etop%22)&center=true&size=20"></a>
 </h1>
 
 <!-- 贪吃蛇 -->
